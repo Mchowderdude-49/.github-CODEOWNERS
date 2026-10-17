@@ -9,12 +9,17 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
+## Our Commitment
+
+We are committed to providing a welcoming, respectful, and inclusive environment for everyone 
+contributing to the Mergington High School extracurricular activities website.
+
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our
+## Examples of behavior that contributes to a positive environment for our
 community include:
 
 * Demonstrating empathy and kindness toward other people
@@ -25,7 +30,7 @@ community include:
 * Focusing on what is best not just for us as individuals, but for the
   overall community
 
-Examples of unacceptable behavior include:
+## Examples of unacceptable behavior include:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
